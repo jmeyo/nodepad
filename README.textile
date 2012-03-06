@@ -31,7 +31,7 @@ h3. Dependency Installation
 Make sure you're running a mongo instance (type <code>mongod</code> if required).
 
 <pre>
-git clone git@github.com:alexyoung/nodepad.git nodepad
+git clone https://github.com/alexyoung/nodepad.git nodepad
 cd nodepad
 npm install
 
